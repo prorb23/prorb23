@@ -1,9 +1,19 @@
-
 ![Banner](https://github.com/user-attachments/assets/38d21971-2ddd-4577-ba80-92354e878d53)
+<h2 align="center">Full Stack Java Developer | Problem Solver | Tech Enthusiast <br><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C4FF&center=true&width=600&lines=Passionate+Full+Stack+Developer;Lifelong+Learner+%26+Problem+Solver;Building+Scalable+Backend+Systems;Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
+</p>
 
-## 👋 About Me
-I'm a **Full Stack Java Developer**, a **Problem Solver**, and a **Tech Enthusiast** who loves crafting clean, scalable and impactful software solutions.  
-I enjoy experimenting with new technologies, improving system performance, and building end-to-end applications from scratch.
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-bhattacharjee-305892270/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+
 
 - 💻 Proficient in building RESTful backends using **Java, Spring Boot, and MySQL**
 - 🎨 Capable of designing responsive user interfaces with **React, HTML5, CSS3, and JavaScript**
