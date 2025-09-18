@@ -1,5 +1,5 @@
-<!-- Banner Section -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I%20am%20Ronit&textBg=false&fontColor=blue&fontSize=38&animation=fadeIn)
+
+![Banner](https://github.com/user-attachments/assets/38d21971-2ddd-4577-ba80-92354e878d53)
 
 ## 👋 About Me
 I'm a **Full Stack Java Developer**, a **Problem Solver**, and a **Tech Enthusiast** who loves crafting clean, scalable and impactful software solutions.  
