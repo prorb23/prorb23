@@ -4,22 +4,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C4FF&center=true&width=600&lines=Passionate+Full+Stack+Developer;Lifelong+Learner+%26+Problem+Solver;Building+Scalable+Backend+Systems;Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
 </p>
 
+---
+<div align="left">
+
+🔗 Connect with Me  
+</div>
+
+<a href="https://www.linkedin.com/in/ronit-bhattacharjee-305892270/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.youtube.com/@your-channel" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
 ---
+<div align="left">
+ 🧑‍💻 About Me
+ <div/>
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-bhattacharjee-305892270/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-
-
-- 💻 Proficient in building RESTful backends using **Java, Spring Boot, and MySQL**
-- 🎨 Capable of designing responsive user interfaces with **React, HTML5, CSS3, and JavaScript**
-- ⚡ Passionate about writing efficient code, optimizing logic, and improving user experience
-- 🌱 Currently diving deeper into **Data Structures & Algorithms** and modern frontend architectures
-- 🚀 Excited to collaborate on real-world projects and contribute to open source
+- 🎓 I'm a **Computer Science Engineering** student passionate about building **efficient, scalable web applications**.  
+- 💻 Skilled in **Java, JSP, Servlets, Spring Boot, MySQL, HTML, CSS, JavaScript, React**, and more.  
+- 🔍 Currently diving deep into **DSA** and enhancing my **front-end skills**.  
+- 🌱 I love turning **ideas into real-world projects** and always look forward to **learning new tools & technologies**.  
+- 💼 Actively looking for **internship/full-time opportunities** in **Software Development**.
 
 ---
 
